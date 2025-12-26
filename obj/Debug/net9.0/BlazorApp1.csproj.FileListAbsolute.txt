@@ -20,7 +20,6 @@
 /Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
 /Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/scopedcss/bundle/BlazorApp1.styles.css
 /Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/scopedcss/projectbundle/BlazorApp1.bundle.scp.css
-/Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-khy4lop6wu.gz
 /Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/compressed/xscm68l0ox-bqjiyaj88i.gz
 /Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/compressed/a413awwuph-c2jlpeoesf.gz
 /Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/compressed/hbq4d3qinw-erw9l3u2r3.gz
@@ -75,5 +74,7 @@
 /Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/BlazorApp1.genruntimeconfig.cache
 /Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/ref/BlazorApp1.dll
 /Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/scopedcss/Components/Layout/DiscordSidebar.razor.rz.scp.css
-/Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/compressed/ysu4imbah3-war9xifj41.gz
-/Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/compressed/uxxncn5hnr-war9xifj41.gz
+/Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/BlazorApp1.sourcelink.json
+/Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/compressed/ysu4imbah3-88vy3q3elx.gz
+/Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/compressed/uxxncn5hnr-88vy3q3elx.gz
+/Users/ethan/Documents/Coding Projects/asp/BlazorApp1/obj/Debug/net9.0/compressed/psnyflj9j1-68a6a7u5up.gz
